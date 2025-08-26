@@ -4,7 +4,7 @@ I'm a Credit Risk Analyst at Santander, passionate about data, finance, and mach
 I use Python and SQL to build models that support smarter decision-making in the financial sector.
 
 ## 🧠 What I work with
-- Python (Pandas, Scikit-learn, Decision Trees)
+- Python (Pandas, Scikit-learn, Matplotlib, Decision Trees)
 - SQL for data exploration and reporting
 - PySpark for distributed data processing
 - Databricks for scalable ML workflows
