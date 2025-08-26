@@ -8,6 +8,8 @@ I use Python and SQL to build models that support smarter decision-making in the
 - SQL for data exploration and reporting
 - PySpark for distributed data processing
 - Databricks for scalable ML workflows
+- Power BI for data visualization and business insights
+
 
 ## 📫 Let's connect
 - [LinkedIn](https://www.linkedin.com/in/lucas-mesquita-3948001a2)
