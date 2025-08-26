@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucas!
 
-<!--
-**lcsmesquita/lcsmesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Credit Risk Analyst at Santander, passionate about data, finance, and machine learning.  
+I use Python and SQL to build models that support smarter decision-making in the financial sector.
 
-Here are some ideas to get you started:
+## 🧠 What I work with
+- Python (Pandas, Scikit-learn, Decision Trees)
+- SQL for data exploration and reporting
+- PySpark for distributed data processing
+- Databricks for scalable ML workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's connect
+- [LinkedIn](https://www.linkedin.com/in/lucas-mesquita-3948001a2)
+
+> "Driven by data, guided by purpose."
